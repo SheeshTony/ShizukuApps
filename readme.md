@@ -1,5 +1,3 @@
-The ultimate curated list of Android apps that use Shizuku for enhanced functionality without root access.
-
 ## 📋 Table of Contents
 
 * [What is Shizuku?](#what-is-shizuku)
