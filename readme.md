@@ -7,7 +7,7 @@ This repository provides the most comprehensive and up-to-date list of **Shizuku
 ## 📋 Table of Contents
 
 * [What is Shizuku?](#what-is-shizuku)
-* [🆕 New & Updated Apps (August 2025)](#-new--updated-apps-august-2025)
+* [🆕 New & Updated Apps (January 2026)](#-new--updated-apps-january-2026)
 * [📱 Apps by Category](#-apps-by-category)
     * [🔒 Privacy & Security](#-privacy--security)
     * [🎨 Customization](#-customization)
@@ -35,67 +35,67 @@ This repository provides the most comprehensive and up-to-date list of **Shizuku
 *   **Active Development**: Regular updates and community contributions
 *   **Universal Compatibility**: Works across all major Android OEMs
 
-## 🆕 New & Updated Apps (August 2025)
+## 🆕 New & Updated Apps (January 2026)
 
-### NetWall 🔥
+### NotiFixer 🔥
 
-**Category:** Network & Privacy | **Type:** IAP
+**Category:** Miscellaneous | **Type:** Free
 
-Revolutionary firewall that doesn't require VPN or ROOT access. Block internet access for specific apps without occupying your device's VPN service.
+Android utility to make notifications persistent and undismissable using Shizuku. A lightweight solution for keeping important notifications visible.
 
 **Key Features:**
 
-*   Material Design 3 & Jetpack Compose interface
-*   Per-app network control
-*   Multi-language support
-*   No VPN service occupation
+*   Make notifications persistent
+*   Lightweight and simple interface
+*   No ads
+*   Open-source
 
-📥 **Download:** [Google Play Store](https://play.google.com/store/apps/details?id=com.ysy.app.firewall)
+📥 **Download:** [GitHub](https://github.com/dkajan19/NotiFixer)
 
-### Galaxy MaxHz 🔥
+### EnforceDoze 🔥
 
-**Category:** Samsung Optimization | **Type:** Free
+**Category:** System Optimization | **Type:** Free
 
-Advanced performance optimization for Samsung Galaxy devices with One UI 6+ support.
+Forcefully enable Doze mode immediately after screen off and disable motion sensing for optimal battery life.
 
-**New v9.0 Features:**
+**Key Features:**
 
-*   Battery protection with separate thresholds
-*   Quick Doze mod improvements
-*   Enhanced refresh rate control
-*   Direct app updates via Shizuku
+*   Immediate Doze activation
+*   Motion sensor control
+*   Battery optimization
+*   Open-source
 
-📥 **Download:** [GitHub Releases](https://github.com/tribalfs/GalaxyMaxHzPub/releases)
+📥 **Download:** [GitHub](https://github.com/farfromrefug/EnforceDoze)
 
-### MixFlipTool 🔥
+### AppControlX 🔥
 
-**Category:** Xiaomi Foldable | **Type:** Free
+**Category:** System Optimization | **Type:** Free
 
-Root-free configuration tool for Xiaomi Mix Flip outer screen functionality.
+Powerful app to freeze, force stop, uninstall, and change background optimization settings for installed applications.
 
-**Unique Capabilities:**
+**Key Features:**
 
-*   Run any app on outer screen
-*   Custom scaling options
-*   One-click configuration
-*   System app restoration
+*   App freezing and force stop
+*   Background optimization control
+*   Batch operations
+*   Open-source
 
-📥 **Download:** [GitHub](https://github.com/parallelcc/MixFlipTool)
+📥 **Download:** [GitHub](https://github.com/risunCode/AppControl-X)
 
-### InstallWithOptions 🔥
+### Operit AI 🔥
 
-**Category:** Software Management | **Type:** Free
+**Category:** Development Tools | **Type:** Free
 
-Advanced APK installer with shell permissions for complex installation scenarios.
+AI agent and chat software on Android that can execute system commands using Shizuku for advanced automation.
 
-**Features:**
+**Key Features:**
 
-*   Install test-only apps
-*   Bypass Android 14 target SDK limits
-*   Split APK support
-*   Batch installations
+*   Tool-calling capability
+*   System command execution via Shizuku
+*   Deep search functionality
+*   Voice and text support
 
-📥 **Download:** [GitHub](https://github.com/zacharee/InstallWithOptions) | [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/com.zacharee1.installwithoptions)
+📥 **Download:** [GitHub](https://github.com/AAswordman/Operit)
 
 ## 📱 Apps by Category
 
@@ -112,6 +112,11 @@ Advanced APK installer with shell permissions for complex installation scenarios
 | **CellReader** | Read cell tower information on Android | [Play Store](https://play.google.com/store/apps/details?id=dev.zwander.cellreader) |
 | **PrivateDNSAndroid** | Quick settings tile to switch private DNS server | [GitHub](https://github.com/karasevm/PrivateDNSAndroid) |
 | **WiFiList** | View saved WiFi passwords on Android 11+ without root | [Play Store](https://play.google.com/store/apps/details?id=tk.zwander.wifilist) |
+| **AntiForensic-Tools** | Application designed to silently protect user data from powerful adversaries | [GitHub](https://github.com/ThePBone/AntiForensic-Tools) |
+| **FireWall Blocks** | Dual-mode firewall that blocks internet access using Shizuku or a standard local VPN | [GitHub](https://github.com/shynoiddev/FireWall-Blocks) |
+| **wifi-password-manager** | Simple app using Shizuku to manage and view saved Wi-Fi passwords | [GitHub](https://github.com/ThePBone/wifi-password-manager) |
+| **OwnDroid** | Manage your device with Device Owner privileges for deep system control | [GitHub](https://github.com/BinTianqi/OwnDroid) |
+| **MDPC** | Fork of OwnDroid with added features for Device Policy Control | [GitHub](https://github.com/MrRare2/MDPC) |
 
 ### 🎨 Customization
 
@@ -131,6 +136,10 @@ Advanced APK installer with shell permissions for complex installation scenarios
 | **LinkSheet** | Restore Android <12 URL-App-Link-Chooser with Material3 | [GitHub](https://github.com/LinkSheet/LinkSheet) |
 | **Taskbar** | Use a start menu to access apps | [F-Droid](https://f-droid.org/packages/com.farmerbb.taskbar/) |
 | **zFont 3** | Emoji & Font Changer | [Play Store](https://play.google.com/store/apps/details?id=com.htetznaing.zfont2) |
+| **pastiera** | Android keyboard specialized for physical keyboards, uses Shizuku for trackpad gestures | [GitHub](https://github.com/palsoftware/pastiera) |
+| **Adaptive-Theme** | Smart dark mode based on ambient light conditions | [GitHub](https://github.com/ThePBone/Adaptive-Theme) |
+| **essentials** | Essential tools, mods, and workarounds for Pixel devices, also compatible with others | [GitHub](https://github.com/ThePBone/essentials) |
+| **DroidOS** | Tiling window manager, serving as a Samsung DEX replacement and popup app launcher | [Official Site](https://droidos.app/) |
 
 ### 📂 File Management
 
@@ -163,6 +172,12 @@ Advanced APK installer with shell permissions for complex installation scenarios
 | **Thor** | App manager with freeze and install capabilities | [Play Store](https://play.google.com/store/apps/details?id=com.valhalla.thor) |
 | **AppDash** | App manager for managing APKs and installed apps | [Play Store](https://play.google.com/store/apps/details?id=flar2.appdashboard) |
 | **TaskManager** | Task Manager for Android with process killing | [GitHub](https://github.com/RohitKushvaha01/TaskManager) |
+| **OnStop2FinishAndRemoveTask** | Automatically close selected apps when you exit them to save power and memory | [GitHub](https://github.com/ThePBone/OnStop2FinishAndRemoveTask) |
+| **EnforceDoze** | Forcefully enable Doze mode immediately after screen off and disable motion sensing | [GitHub](https://github.com/farfromrefug/EnforceDoze) |
+| **battery-stats-changer** | Open source app to visually change battery data via Shizuku | [GitHub](https://github.com/superisuer/battery-stats-changer) |
+| **FDE.AI** | All-in-One optimizer for Android with proprietary features | [Official Site](https://fdeai.com/) |
+| **BatStats** | Battery monitor that provides detailed stats via Shizuku | [GitHub](https://github.com/mlm-games/BatStats) |
+| **AppControlX** | Powerful app to freeze, force stop, uninstall, and change background optimization | [GitHub](https://github.com/risunCode/AppControl-X) |
 
 ### 🎮 Gaming & Entertainment
 
@@ -180,6 +195,10 @@ Advanced APK installer with shell permissions for complex installation scenarios
 | **CloudSync-Mobile** | Sync Stardew Valley saves across devices | [GitHub](https://github.com/FawazTakahji/CloudSync-Mobile) |
 | **lac-tool** | Manage maps, wallpapers for Los Angeles Crimes | [GitHub](https://github.com/aliernfrog/lac-tool) |
 | **pf-tool** | Easily import and share Polyfield maps | [GitHub](https://github.com/aliernfrog/pf-tool) |
+| **Okkei Patcher** | Companion app for localizing the Android version of the CHAOS;CHILD visual novel | [GitHub](https://github.com/solrudev/OkkeiPatcher) |
+| **ShinGen** | Genshin Impact Auto-Conversation Clicker | [GitHub](https://github.com/Shio2077/ShinGen) |
+| **hlbmerge_flutter** | Merge and export BiliBili cache files into MP4 | [GitHub](https://github.com/molihuan/hlbmerge_flutter) |
+| **BILIBILIAS** | Auxiliary tool for BiliBili video caching, providing one-click caching | [GitHub](https://github.com/1250422131/bilibilias) |
 
 ### 🔧 Development Tools
 
@@ -195,6 +214,10 @@ Advanced APK installer with shell permissions for complex installation scenarios
 | **Package-Info** | View package information of installed apps | [GitHub](https://github.com/100rabh-s/Package-Info) |
 | **Permission-Monitor** | Monitor app permission usage in real-time | [GitHub](https://github.com/RikkaApps/Permission-Monitor) |
 | **Shizuku-API-Sample** | Official sample app for Shizuku API usage | [GitHub](https://github.com/RikkaApps/Shizuku-API-Sample) |
+| **Operit AI** | AI agent that can run system commands using Shizuku for advanced automation | [GitHub](https://github.com/AAswordman/Operit) |
+| **Running Services Monitor** | Monitor running services on your Android device | [GitHub](https://github.com/ThePBone/RunningServicesMonitor) |
+| **Universal-ReVanced-Manager** | ReVanced patcher that has extra features the official manager doesn't have | [GitHub](https://github.com/ThePBone/Universal-ReVanced-Manager) |
+| **Morphe** | User-friendly YouTube patcher based on Universal-ReVanced-Manager | [GitHub](https://github.com/ThePBone/Morphe) |
 
 ### 🌐 Communication
 
@@ -203,6 +226,7 @@ Advanced APK installer with shell permissions for complex installation scenarios
 | **Bypass-Restrict-Background** | Bypass background restrictions for messaging apps | [GitHub](https://github.com/RikkaApps/Bypass-Restrict-Background) |
 | **Notification-Listener** | Advanced notification management and logging | [GitHub](https://github.com/RikkaApps/Notification-Listener) |
 | **Auto-Reply-for-WA** | Automated reply for WhatsApp messages | [Play Store](https://play.google.com/store/apps/details?id=com.autoware.autoreply) |
+| **Aliucord-Manager** | Discord modding tool that uses Shizuku for installation | [GitHub](https://github.com/Aliucord/Manager) |
 
 ### ⚙️ Automation & Quick Settings
 
@@ -213,6 +237,10 @@ Advanced APK installer with shell permissions for complex installation scenarios
 | **MacroDroid** | Simple yet powerful automation | [Play Store](https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid) |
 | **QuickTile** | Create custom quick setting tiles | [GitHub](https://github.com/zacharee/QuickTile) |
 | **Shizuku-Quick-Settings** | Quick settings tile for Shizuku service status | [GitHub](https://github.com/RikkaApps/Shizuku-Quick-Settings) |
+| **Tasker Settings** | Helper app for Tasker to access advanced system settings | [GitHub](https://github.com/joaomgcd/TaskerSettings) |
+| **Better Shizuku Starter** | Automate flow to check and automatically start Shizuku via wireless debugging | [Automate Flow](https://llamalab.com/automate/community/flows/47335) |
+| **Shizuku Keeper** | Automate flow to continuously run Shizuku uninterrupted without root or Wi-Fi | [Automate Flow](https://llamalab.com/automate/community/flows/47336) |
+| **NotiFixer** | Android utility to make notifications persistent/undismissable | [GitHub](https://github.com/dkajan19/NotiFixer) |
 
 ### 🎵 Audio & Media
 
@@ -229,6 +257,7 @@ Advanced APK installer with shell permissions for complex installation scenarios
 | **Galaxy MaxHz** | Samsung display optimization | [GitHub Releases](https://github.com/tribalfs/GalaxyMaxHzPub/releases) |
 | **MixFlipTool** | Xiaomi foldable outer screen control | [GitHub](https://github.com/parallelcc/MixFlipTool) |
 | **Xiaomi-ADB-Fastboot-Tools** | Manage Xiaomi devices | [GitHub](https://github.com/Saki-EU/Xiaomi-ADB-Fastboot-Tools) |
+| **PixelCarrierSettings** | Enable VoLTE for carriers in unsupported regions on Pixel devices | [GitHub](https://github.com/ThePBone/PixelCarrierSettings) |
 
 ## 💡 Pro Tips
 
