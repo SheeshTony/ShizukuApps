@@ -67,35 +67,33 @@ Forcefully enable Doze mode immediately after screen off and disable motion sens
 
 📥 **Download:** [GitHub](https://github.com/farfromrefug/EnforceDoze)
 
-### InstallerX-Revived 🔥
+### Okkei Patcher 🔥
 
-**Category:** Software Management | **Type:** Free
+**Category:** Games | **Type:** Free
 
-Modern and functional Android app installer replacement that uses Shizuku to bypass OS restrictions and provide a better installation experience.
+Companion app for localizing the Android version of CHAOS;CHILD visual novel, utilizing Shizuku for seamless patching.
 
 **Key Features:**
 
-*   Bypass custom OS chain-start restrictions
-*   User-friendly sideloading
-*   High performance with BinderWrapper
+*   Visual novel localization
+*   Seamless patching via Shizuku
 *   Open-source
 
-📥 **Download:** [GitHub](https://github.com/wxxsfxyzm/InstallerX-Revived)
+📥 **Download:** [GitHub](https://github.com/solrudev/OkkeiPatcher)
 
-### Operit AI 🔥
+### Morphe 🔥
 
-**Category:** Development Tools | **Type:** Free
+**Category:** Patching | **Type:** Free
 
-AI agent and chat software on Android that can execute system commands using Shizuku for advanced automation.
+User-friendly YouTube patcher based on Universal-ReVanced-Manager, offering a streamlined experience for modifying the YouTube app.
 
 **Key Features:**
 
-*   Tool-calling capability
-*   System command execution via Shizuku
-*   Deep search functionality
-*   Voice and text support
+*   Easy YouTube patching
+*   Based on ReVanced
+*   Open-source
 
-📥 **Download:** [GitHub](https://github.com/AAswordman/Operit)
+📥 **Download:** [GitHub](https://github.com/ThePBone/Morphe)
 
 ## 📱 Apps by Category
 
@@ -104,10 +102,10 @@ AI agent and chat software on Android that can execute system commands using Shi
 | App | Description | Download |
 | --- | --- | --- |
 | **App Ops** ⭐ | Advanced permission manager | [Play Store](https://play.google.com/store/apps/details?id=rikka.appops) |
+| **AntiForensic-Tools** | Protect user data from powerful adversaries | [GitHub](https://github.com/ThePBone/AntiForensic-Tools) |
 | **Amarok-Hider** | Hide your private files and Android apps with one click | [IzzyOnDroid](https://apt.izzysoft.de/fdroid/index/apk/deltazero.amarok.foss) |
 | **AppLock** | Lock sensitive apps with PIN and biometrics | [GitHub](https://github.com/PranavPurwar/AppLock) |
 | **NetWall** | Network firewall without VPN | [Play Store](https://play.google.com/store/apps/details?id=com.ysy.app.firewall) |
-| **AntiForensic-Tools** | Protect user data from powerful adversaries | [GitHub](https://github.com/ThePBone/AntiForensic-Tools) |
 | **FindMyDevice** | Secure open-source alternative to Google's FindMyDevice | [GitLab](https://gitlab.com/Nulide/findmydevice) |
 | **CellReader** | Read cell tower information on Android | [Play Store](https://play.google.com/store/apps/details?id=dev.zwander.cellreader) |
 | **PrivateDNSAndroid** | Quick settings tile to switch private DNS server | [GitHub](https://github.com/karasevm/PrivateDNSAndroid) |
@@ -120,13 +118,15 @@ AI agent and chat software on Android that can execute system commands using Shi
 
 | App | Description | Download |
 | --- | --- | --- |
+| **Adaptive-Theme** | Smart dark mode based on ambient light | [GitHub](https://github.com/ThePBone/Adaptive-Theme) |
+| **essentials** | Essential tools and mods for Pixel and other devices | [GitHub](https://github.com/ThePBone/essentials) |
+| **DroidOS** | Tiling window manager and DEX replacement | [Official Site](https://droidos.app/) |
 | **Lockscreen Widgets** | Display widgets on the lockscreen | [Play Store](https://play.google.com/store/apps/details?id=tk.zwander.lockscreenwidgets) |
 | **DarQ** ⭐ | Per-app selectable force dark mode for Android 10+ | [GitHub](https://github.com/KieronQuinn/DarQ) |
 | **ColorBlendr** | Modify Material You colors of your device | [GitHub](https://github.com/Mahmud0808/ColorBlendr) |
 | **TapTap** ⭐ | Back tap gestures port from Android 12 | [GitHub](https://github.com/KieronQuinn/TapTap) |
 | **AmbientMusicMod** | Port of Now Playing from Pixels to other devices | [GitHub](https://github.com/KieronQuinn/AmbientMusicMod) |
 | **System UI Tuner** | View and modify hidden Android settings | [GitHub](https://github.com/zacharee/Tweaker) |
-| **Adaptive-Theme** | Smart dark mode based on ambient light | [GitHub](https://github.com/ThePBone/Adaptive-Theme) |
 | **CarrierVanityName** | Change carrier names on unrooted devices | [GitHub](https://github.com/nullbytepl/CarrierVanityName) |
 | **Language-Selector** | Select individual app languages (Android 13+) | [GitHub](https://github.com/VegaBobo/Language-Selector) |
 | **MultiLocale** | Add additional languages to device locale settings | [GitHub](https://github.com/Nightdavisao/MultiLocale) |
@@ -134,8 +134,6 @@ AI agent and chat software on Android that can execute system commands using Shi
 | **LinkSheet** | Restore Android <12 URL-App-Link-Chooser | [GitHub](https://github.com/LinkSheet/LinkSheet) |
 | **Taskbar** | Use a start menu to access apps | [F-Droid](https://f-droid.org/packages/com.farmerbb.taskbar/) |
 | **zFont 3** | Emoji & Font Changer | [Play Store](https://play.google.com/store/apps/details?id=com.htetznaing.zfont2) |
-| **DroidOS** | Tiling window manager and DEX replacement | [Official Site](https://droidos.app/) |
-| **essentials** | Essential tools and mods for Pixel and other devices | [GitHub](https://github.com/ThePBone/essentials) |
 
 ### 📂 File Management
 
@@ -156,7 +154,6 @@ AI agent and chat software on Android that can execute system commands using Shi
 | --- | --- | --- |
 | **Canta** ⭐ | Uninstall any app without root | [Play Store](https://play.google.com/store/apps/details?id=io.github.samolego.canta) |
 | **Hail** ⭐ | Freeze, hide or disable apps with one-click groups | [F-Droid](https://f-droid.org/packages/com.aistra.hail/) |
-| **InstallerX-Revived** ⭐ | Modern app installer replacement | [GitHub](https://github.com/wxxsfxyzm/InstallerX-Revived) |
 | **AppControlX** | Powerful app to freeze and manage apps | [GitHub](https://github.com/risunCode/AppControl-X) |
 | **EnforceDoze** | Forcefully enable Doze mode for battery life | [GitHub](https://github.com/farfromrefug/EnforceDoze) |
 | **battery-stats-changer** | Visually change battery data via Shizuku | [GitHub](https://github.com/superisuer/battery-stats-changer) |
@@ -164,6 +161,7 @@ AI agent and chat software on Android that can execute system commands using Shi
 | **BatStats** | Battery monitor with detailed stats | [GitHub](https://github.com/mlm-games/BatStats) |
 | **shappky** | Boost performance by stopping background apps | [GitHub](https://github.com/YasserNull/shappky) |
 | **Running Services Monitor** | Monitor running services on Android | [GitHub](https://github.com/ThePBone/RunningServicesMonitor) |
+| **InstallerX-Revived** ⭐ | Modern app installer replacement | [GitHub](https://github.com/wxxsfxyzm/InstallerX-Revived) |
 | **Package Manager** | Powerful app to manage system and user APKs | [Play Store](https://play.google.com/store/apps/details?id=com.smartpack.packagemanager) |
 | **Blocker** | Enable/disable Android components | [GitHub](https://github.com/lihenggui/blocker) |
 | **Inure App Manager** | Android app manager for rooted/non-rooted devices | [Play Store](https://play.google.com/store/apps/details?id=app.simple.inure.play) |
@@ -199,7 +197,7 @@ AI agent and chat software on Android that can execute system commands using Shi
 
 | App | Description | Download |
 | --- | --- | --- |
-| **Aliucord-Manager** | Discord modding tool | [GitHub](https://github.com/Aliucord/Manager) |
+| **Aliucord-Manager** | Discord modding tool | [GitHub](https://github.com/Aliucord/Aliucord-Manager) |
 | **Bypass-Restrict-Background** | Bypass background restrictions for messaging | [GitHub](https://github.com/RikkaApps/Bypass-Restrict-Background) |
 | **Notification-Listener** | Advanced notification management | [GitHub](https://github.com/RikkaApps/Notification-Listener) |
 
