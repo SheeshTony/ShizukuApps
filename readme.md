@@ -31,31 +31,51 @@ This repository provides the most comprehensive and up-to-date list of **Shizuku
 | --- | --- |
 | **No Root Required** | Access advanced features safely without voiding warranty. |
 | **Wireless Setup** | Works seamlessly with Android 11+ wireless debugging. |
-| **Extensive Ecosystem** | Over 180+ compatible apps and growing. |
+| **Extensive Ecosystem** | Over 200+ compatible apps and growing. |
 | **Active Development** | Regular updates from a dedicated community. |
 | **Universal Compatibility** | Works across all major Android OEMs (Samsung, Pixel, Xiaomi, etc.). |
 
 ## 🆕 New & Updated Apps (February 2026)
 
-### NotiFixer 🔥
-**Category:** Miscellaneous | **Type:** Free | **Updated:** Jan 2026
-Android utility to make notifications persistent and undismissable using Shizuku. A lightweight solution for keeping important notifications visible.
-📥 **Download:** [GitHub](https://github.com/dkajan19/NotiFixer)
+### AndroSH 🔥
+**Category:** Miscellaneous | **Type:** Free | **Updated:** Feb 2026
+Professional Multi-Distribution Linux Environments for Android. Run Archlinux, Fedora, Alpine, Debian, Ubuntu, Kali, Void, Manjaro & Chimera with full Android system integration.
+📥 **Download:** [GitHub](https://github.com/ThePBone/AndroSH)
 
-### EnforceDoze 🔥
-**Category:** Power Management | **Type:** Free | **Updated:** Jan 2026
-Forcefully enable Doze mode immediately after screen off and disable motion sensing for optimal battery life.
-📥 **Download:** [GitHub](https://github.com/farfromrefug/EnforceDoze)
+### debuggable-app-data-backup 🔥
+**Category:** Development | **Type:** Free | **Updated:** Feb 2026
+Backup/restore private app data of debuggable apps using Shizuku.
+📥 **Download:** [GitHub](https://github.com/ThePBone/debuggable-app-data-backup)
 
-### Okkei Patcher 🔥
-**Category:** Games | **Type:** Free | **Updated:** Jan 2026
-Companion app for localizing the Android version of CHAOS;CHILD visual novel, utilizing Shizuku for seamless patching.
-📥 **Download:** [GitHub](https://github.com/solrudev/OkkeiPatcher)
+### gama 🔥
+**Category:** Customization | **Type:** Free | **Updated:** Feb 2026
+Can switch between OpenGL and Vulkan renderers by setting the debug.hwui.renderer system property.
+📥 **Download:** [GitHub](https://github.com/ThePBone/gama)
 
-### Morphe 🔥
-**Category:** Patching | **Type:** Free | **Updated:** Jan 2026
-User-friendly YouTube patcher based on Universal-ReVanced-Manager, offering a streamlined experience for modifying the YouTube app.
-📥 **Download:** [GitHub](https://github.com/ThePBone/Morphe)
+### Jarngreipr 🔥
+**Category:** Games | **Type:** Free | **Updated:** Feb 2026
+Launcher for dual-screen gaming devices. Uses Shizuku to map one of the touch screens to controller inputs.
+📥 **Download:** [GitHub](https://github.com/ThePBone/Jarngreipr)
+
+### deskcontrol 🔥
+**Category:** Display Management | **Type:** Free | **Updated:** Feb 2026
+Turns your phone into a touchpad and keyboard for a single app running on a wired external display.
+📥 **Download:** [GitHub](https://github.com/ThePBone/deskcontrol)
+
+### traffic-light 🔥
+**Category:** Network | **Type:** Free | **Updated:** Feb 2026
+A persistent network speed tracker in your status bar.
+📥 **Download:** [GitHub](https://github.com/ThePBone/traffic-light)
+
+### Recording-Light-Control 🔥
+**Category:** Vendor-Specific (Nothing) | **Type:** Free | **Updated:** Feb 2026
+Recording Light Control gives precise control over the Nothing Phone (3)'s recording light.
+📥 **Download:** [GitHub](https://github.com/ThePBone/Recording-Light-Control)
+
+### Appzuku 🔥
+**Category:** System Optimization | **Type:** Free | **Updated:** Jan 2026
+A simple app to boost performance by stopping background apps, relying on Root/Shizuku permissions.
+📥 **Download:** [GitHub](https://github.com/northmendo/Appzuku)
 
 ## 📱 Apps by Category
 
@@ -96,6 +116,7 @@ User-friendly YouTube patcher based on Universal-ReVanced-Manager, offering a st
 | **LinkSheet** | Restore Android <12 URL-App-Link-Chooser. | [GitHub](https://github.com/LinkSheet/LinkSheet) |
 | **Taskbar** | Use a start menu to access apps. | [F-Droid](https://f-droid.org/packages/com.farmerbb.taskbar/) |
 | **zFont 3** | Emoji & Font Changer. | [Play Store](https://play.google.com/store/apps/details?id=com.htetznaing.zfont2) |
+| **gama** | Switch between OpenGL and Vulkan renderers. | [GitHub](https://github.com/ThePBone/gama) |
 
 ### 📂 File Management
 
@@ -122,6 +143,7 @@ User-friendly YouTube patcher based on Universal-ReVanced-Manager, offering a st
 | **FDE.AI** | All-in-One optimizer for Android. | [Official Site](https://fdeai.com/) |
 | **BatStats** | Battery monitor with detailed stats. | [GitHub](https://github.com/mlm-games/BatStats) |
 | **shappky** | Boost performance by stopping background apps. | [GitHub](https://github.com/YasserNull/shappky) |
+| **Appzuku** | Boost performance by stopping background apps. | [GitHub](https://github.com/northmendo/Appzuku) |
 | **Running Services Monitor** | Monitor running services on Android. | [GitHub](https://github.com/ThePBone/RunningServicesMonitor) |
 | **InstallerX-Revived** ⭐ | Modern app installer replacement. | [GitHub](https://github.com/wxxsfxyzm/InstallerX-Revived) |
 | **Package Manager** | Powerful app to manage system and user APKs. | [Play Store](https://play.google.com/store/apps/details?id=com.smartpack.packagemanager) |
@@ -142,6 +164,7 @@ User-friendly YouTube patcher based on Universal-ReVanced-Manager, offering a st
 | **90 FPS + 120 FPS** | Enables high FPS in PUBG. | [Play Store](https://play.google.com/store/apps/details?id=tq.tech.Fps) |
 | **Panda Gamepad Pro** | Keymapper for games. | [Play Store](https://play.google.com/store/apps/details?id=com.panda.gamepad) |
 | **keysync** | Play games using mouse and keyboard. | [GitHub](https://github.com/aka-munan/keysync) |
+| **Jarngreipr** | Launcher for dual-screen gaming devices. | [GitHub](https://github.com/ThePBone/Jarngreipr) |
 
 ### 🔧 Development Tools & Patching
 
@@ -155,6 +178,7 @@ User-friendly YouTube patcher based on Universal-ReVanced-Manager, offering a st
 | **AppManager** | Open-source package manager and viewer. | [GitHub](https://github.com/MuntashirAkon/AppManager) |
 | **Operit AI** | AI agent that can run system commands. | [GitHub](https://github.com/AAswordman/Operit) |
 | **AndroSH** | Linux Environments for Android. | [GitHub](https://github.com/ThePBone/AndroSH) |
+| **debuggable-app-data-backup** | Backup/restore private app data. | [GitHub](https://github.com/ThePBone/debuggable-app-data-backup) |
 
 ### 🌐 Communication
 
@@ -169,8 +193,6 @@ User-friendly YouTube patcher based on Universal-ReVanced-Manager, offering a st
 | **Tasker** ⭐ | Ultimate automation app for Android. | [Play Store](https://play.google.com/store/apps/details?id=net.dinglisch.android.taskerm) |
 | **Tasker Settings** | Helper app for Tasker system settings. | [GitHub](https://github.com/joaomgcd/TaskerSettings) |
 | **Automate** | Visual programming for automation. | [Play Store](https://play.google.com/store/apps/details?id=com.llamalab.automate) |
-| **MacroDroid** | Simple yet powerful automation. | [Play Store](https://play.google.com/store/apps/details?id=com.arlosoft.macrodroid) |
-| **NotiFixer** | Make notifications persistent/undismissable. | [GitHub](https://github.com/dkajan19/NotiFixer) |
 | **Better Shizuku Starter** | Automate starting Shizuku via wireless debugging. | [Automate Flow](https://llamalab.com/automate/community/flows/47335) |
 | **Shizuku Keeper** | Continuously run Shizuku uninterrupted. | [Automate Flow](https://llamalab.com/automate/community/flows/47336) |
 
@@ -189,6 +211,7 @@ User-friendly YouTube patcher based on Universal-ReVanced-Manager, offering a st
 | **PixelCarrierSettings** | Enable VoLTE on Pixel in unsupported regions. | [GitHub](https://github.com/ThePBone/PixelCarrierSettings) |
 | **Galaxy MaxHz** | Samsung display optimization. | [GitHub Releases](https://github.com/tribalfs/GalaxyMaxHzPub/releases) |
 | **MixFlipTool** | Xiaomi foldable outer screen control. | [GitHub](https://github.com/parallelcc/MixFlipTool) |
+| **Recording-Light-Control** | Control Nothing Phone (3) recording light. | [GitHub](https://github.com/ThePBone/Recording-Light-Control) |
 
 ## 💡 Pro Tips
 
